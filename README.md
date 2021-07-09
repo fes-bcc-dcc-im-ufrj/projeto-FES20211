@@ -26,3 +26,6 @@ As regras a seguir são iniciais. Os alunos podem propor novas regras no Whatsap
 * Os grupos devem tentar manter o BD bastante simples
 * Todas as chaves primárias devem ser sintéticas, com o nome id_<tabela> e de valor inteiro
 * Todas as chaves estrangeiras devem ser ce_<tabela> e de valor inteiro
+
+
+## Propostas de mudanças nas Regras
